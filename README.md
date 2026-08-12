@@ -21,4 +21,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/piyush30073/DSA/tree/master/0316-remove-duplicate-letters) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
