@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/piyush30073/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Stack
 |  |
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
