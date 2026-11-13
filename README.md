@@ -2,70 +2,72 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/piyush30073/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/piyush30073/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/piyush30073/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/piyush30073/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/piyush30073/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/piyush30073/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/piyush30073/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
 ## Algorithm X
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
 ## Dancing Links
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 ## Brute-Force Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/piyush30073/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
