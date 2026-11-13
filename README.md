@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/piyush30073/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/piyush30073/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Stack
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/piyush30073/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/piyush30073/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/piyush30073/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
 ## Matrix
 | Problem Name | Difficulty |
