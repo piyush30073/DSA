@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/piyush30073/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/piyush30073/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/piyush30073/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/piyush30073/DSA/tree/master/0139-word-break) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/piyush30073/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,5 +74,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/piyush30073/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/piyush30073/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/piyush30073/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 <!---LeetCode Topics End-->
